@@ -1,0 +1,50 @@
+body{
+    background-color: whitesmoke;
+    height: 100%;
+    width: 100%;
+}
+
+.print {
+    background-color: #f44336 !important;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+  .len {
+    background-color: #f44336 !important;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+  .jenisdata {
+    background-color: #f44336 !important;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+  .index {
+    background-color: #f44336 !important;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+  .slice {
+    background-color: #f44336 !important;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
